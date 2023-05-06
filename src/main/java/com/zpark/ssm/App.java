@@ -10,6 +10,7 @@ public class App {
         System.out.println("Hello Git!");
         System.out.println("Hello Git! wjz master second commit!");
         System.out.println("Hello Git! wjz hotfix first commit!");
+        System.out.println("Hello Git! wjz master first modify!");
     }
 
 }

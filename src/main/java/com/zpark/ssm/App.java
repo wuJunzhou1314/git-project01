@@ -13,6 +13,7 @@ public class App {
         System.out.println("Hello Git! wjz hotfix first modify!");
         System.out.println("Hello Git! wjz master first modify!");
         System.out.println("Hello GitHub! wjz master first push GitHub!");
+        System.out.println("Test pull from GitHub!");
     }
 
 }
